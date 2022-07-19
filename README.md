@@ -17,4 +17,4 @@ exert their own ‘top-down’ effects on herbivore diversification and assembla
 answers to these questions matter because they predict the strength and direction of selection at
 different trophic levels, and the topology and strength of interactions within trophic networks.
 They are central to predicting the cascading impacts of species gain or loss2, both of which are
-increasingly frequent in communities worldwide11.
+increasingly frequent in communities worldwide.
